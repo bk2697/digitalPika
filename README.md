@@ -1,2 +1,1 @@
-# digitalPika
-Digital Pet Pikachu
+# pikachu
